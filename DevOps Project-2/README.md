@@ -42,5 +42,5 @@ Here is the image I have attached so that You can easly set the triggers. Please
 Now as you have set the triggers, to each job, now it's time to create a pipeline so that we can easliy manage the whole CI/CD Pipeline. If you don't know how to set-up Build pipeline, then you just need to download the <b>Build Pipeline Plugin</b> from Plugin Manager in Jenkins and then I have uploaded the images for your convienent in image folder with names pipeline-1 and pipeline-2 for creating a pipeline for any project. If all the three Jobs will run succesfully then you will get green color in every Job as you can see in the below picture.<br>
 
 ![](images/Build%20Pipeline.png)<br>
-
-So this was all about the Project. I hope you understood the Project and if any doubt feel free to ping me on my <a href=""https://www.linkedin.com/in/abhinavdubey26/""><LinkedIn Handle</a>. To watch the demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">click here</a>.
+<br>
+So this was all about the Project. I hope you understood the Project and if any doubt feel free to ping me on my <a href="https://www.linkedin.com/in/abhinavdubey26/"><LinkedIn Handle</a>. To watch the demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">click here</a>.
