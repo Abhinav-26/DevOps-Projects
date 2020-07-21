@@ -1,5 +1,4 @@
-# Project-2: Integrating Jenkins, Docker and WebServer to auto deploy Website
+# Automated WebSite Deployment using Docker
 
-Still working on the write of this. To see the demo of the project you can visit my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn</a> handle
+In this Project I have used the Git/GitHub, Jenkins and Docker and integrated all these technologies to create an automated system for AutoDeployment. For building this project I have used my another account ie, <a href="https://github.com/Abhinav-26-DevOps/Task-2">Abhinav-26-DevOps</a>, where I practise DevOps tasks.
 
-Here is the project demontration video : <a href="https://www.linkedin.com/feed/update/urn:li:activity:6668859867073273856/">click here</a>
