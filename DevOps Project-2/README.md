@@ -43,4 +43,4 @@ Now as you have set the triggers, to each job, now it's time to create a pipelin
 
 ![](images/Build%20Pipeline.png)<br>
 <br>
-So this was all about the Project. I hope you understood the Project and if any doubt feel free to ping me on my <a href="https://www.linkedin.com/in/abhinavdubey26/"><LinkedIn Handle</a>. To watch the demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">click here</a>.
+So this was all about the Project. I hope you understood the Project and if any doubt feel free to ping me on my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Handle</a>. To watch the demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">click here</a>.
