@@ -13,3 +13,7 @@ The Project which I have created is a very basic integration in DevOps Domain. I
 
 And the best thing about all these Jobs is that it all will be automatically triggered as soon as the developer pushes the code to GitHub Repository.
 
+# How to Create this Project
+Well it is not as typical as it looks like. If you have good hold in your concepts, then this project is nothing for you. The very 1st thing would be setting up Git, Jenkins and Docker in Your System. For Setting Up Jenkins and Git you can refer to my <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">article<a>.Once You set Up Git, Jenkins and Docker you can easly go for creating Your Jobs and if you don't knwo how to create jobs you can read the above article where I have explained in a detailed way of creation of jobs in jenkins or you can watch this <a href="https://www.youtube.com/watch?v=CRvzphqTtU4">video</a>.<br>
+In Job-1's execute shell in write this code snippet <code>cp -rvf * /name_of_your_WorkspaceFolder</code>
+
