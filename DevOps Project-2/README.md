@@ -37,4 +37,4 @@ In Job-3's execute Shell write<br>
   
 After Writing the codes, the next task will be to link all these using build Pipeline so that at one go all will Jobs run and and it will be easy to monitor. Before creating build ppipeline we need to set <b>build triggers</b> such that when Job1 will run, automatically it will triggered Job2 and Job3. <b>Job1 --> Job2 --> Job3</b><br>
 Here is the image I have attached so that You can easly set the triggers. Please note that trigger is set as per the basis of UpStreams and DownStreams. In this I will setupp the trigger to Job2 such that, as soon as Job will successfully run, it will trigger to JOb2 and similarly as Job2 will run successfully it will trigger to Job3 and hence it will create CI/CD.<br>
-! [](images/Trigger.png)
+![](images/Trigger.png)
