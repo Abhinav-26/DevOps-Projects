@@ -25,12 +25,12 @@ In Job-2's execute shell write,<br>
   <code>sudo docker dun -dit -p 8081:80 -v/name_of_your_WorkspaceFolder:/usr/local/apache2/htdocs --name production httpd</code><br>
   <code>fi</code> and then save it and go and create Job-3<br><br>
 In Job-3's execute Shell write<br>
-  <code>status=$(curl -o Your_SysIP:8081/)</code>
-  <code>if[[ $status == 200 ]]</code>
-  <code>then</code>
-  <code>echo "Successfull"</code>
-  <code>exit 0</code>
-  <code>else</code>
-  <code>echo "Error"</code>
-  <code>exit 1</code>
-  <code>fi</code> and then save it and come out of Job-3
+  <code>status=$(curl -o Your_SysIP:8081/)</code><br>
+  <code>if[[ $status == 200 ]]</code><br>
+  <code>then</code><br>
+  <code>echo "Successfull"</code><br>
+  <code>exit 0</code><br>
+  <code>else</code><br>
+  <code>echo "Error"</code><br>
+  <code>exit 1</code><br>
+  <code>fi</code> and then save it and come out of Job-3<br><br>
