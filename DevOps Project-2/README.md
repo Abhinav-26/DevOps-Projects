@@ -5,4 +5,6 @@
 In this Project I have used the Git/GitHub, Jenkins and Docker and integrated all these technologies to create an automated system for AutoDeployment. For building this project I have used my another account ie, <a href="https://github.com/Abhinav-26-DevOps/Task-2">Abhinav-26-DevOps</a>, where I practise DevOps tasks.
 If you are new to Git/GitHub, Jenkins, WebServer, I have written a well documented article on these topics in my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Profile</a> and shown how we can configure these in our system and integrate these technologies. To read the article <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">click here<a>.
 
+# How it Works
+The Project which I have created is a very basic integration in DevOps Domain. In this Project, when the developer will commit the code, it will automatically push the code in backend to the respective GitHub Repository. Using the WebHooks from GitHub, as soon as the developer pushes the code, it will be send to Jenkins Workspace automatically and then Jenkins Jobs will be triggered automatically as the Jobs queue. Also I have used the concept of Build Pipeline such that it will be easy to monitor the Jobs.
 
