@@ -19,7 +19,7 @@ In Job-1's execute shell write this code snippet <code>sudo cp -rvf * /name_of_y
 In Job-2's execute shell write,<br>
   <code>if sudo docker container ls | grep production</code><br>
     <code>then</code><br>
-    <code>sudo docker conatiner rm -f production<br>
+  <code>sudo docker conatiner rm -f production</code><br>
    <code> else</code><br>
    <code> sudo docker dun -dit -p 8081:80 -v/name_of_your_WorkspaceFolder:/usr/local/apache2/htdocs --name production httpd</code><br>
    <code> fi</code>
