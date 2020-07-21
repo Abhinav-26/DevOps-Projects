@@ -7,7 +7,9 @@ In this Project I have created an Automated Web Development Environment integrat
 For Demonstration of the Project <a href="https://www.youtube.com/watch?v=CRvzphqTtU4&t=49s">Click Here</a><br><br>
 
 <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-2">Project-2 : Automated WebSite Deployement within Docker</a><br>
-In this Project I have created an Automated Website Deployment inside a docker container. In this project I have used the techologies like Git/GitHub, Jenkins, and Docker Container for making an automated website deployment.<br><br>
+In this Project I have created an Automated Website Deployment inside a docker container. In this project I have used the techologies like Git/GitHub, Jenkins, and Docker Container for making an automated website deployment.<br>
+
+For Demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">Click Here</a>
 
 <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-3">Project-3 : Containerization Within Container</a><br>
 In this Project I have used the concepts of docker to make Autmation Project lanching docker-within-docker so that the Project can be easily shipped from system to another without any problem. Docker Concepts are very useful for such projects when you need to send your project with complete environment of the project.<br>
