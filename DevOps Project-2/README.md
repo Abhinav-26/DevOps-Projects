@@ -15,11 +15,12 @@ And the best thing about all these Jobs is that it all will be automatically tri
 
 # How to Create this Project
 Well it is not as typical as it looks like. If you have good hold in your concepts, then this project is nothing for you. The very 1st thing would be setting up Git, Jenkins and Docker in Your System. For Setting Up Jenkins and Git you can refer to my <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">article<a>.Once You set Up Git, Jenkins and Docker you can easly go for creating Your Jobs and if you don't knwo how to create jobs you can read the above article where I have explained in a detailed way of creation of jobs in jenkins or you can watch this <a href="https://www.youtube.com/watch?v=CRvzphqTtU4">video</a>.<br>
-In Job-1's execute shell write this code snippet <code>sudo cp -rvf * /name_of_your_WorkspaceFolder</code> and then save it.<br>
+In Job-1's execute shell write<br>
+  <code>sudo cp -rvf * /name_of_your_WorkspaceFolder</code> and then save it.<br>
 In Job-2's execute shell write,<br>
   <code>if sudo docker container ls | grep production</code><br>
-    <code>then</code><br>
+  <code>then</code><br>
   <code>sudo docker conatiner rm -f production</code><br>
-   <code> else</code><br>
-   <code> sudo docker dun -dit -p 8081:80 -v/name_of_your_WorkspaceFolder:/usr/local/apache2/htdocs --name production httpd</code><br>
-   <code> fi</code>
+  <code>else</code><br>
+  <code>sudo docker dun -dit -p 8081:80 -v/name_of_your_WorkspaceFolder:/usr/local/apache2/htdocs --name production httpd</code><br>
+  <code>fi</code>
