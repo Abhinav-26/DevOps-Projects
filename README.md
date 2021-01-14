@@ -12,7 +12,7 @@ In this Project I have created an Automated Website Deployment inside a docker c
 For Demonstration of the Project <a href="https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2">Click Here</a><br>
 
 <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-3">Project-3 : Containerization Within Container</a><br>
-In this Project I have used the concepts of docker to make Autmation Project lanching docker-within-docker so that the Project can be easily shipped from system to another without any problem. Docker Concepts are very useful for such projects when you need to send your project with complete environment of the project.<br>
+In this Project I have used the concepts of docker to make Automation Project lanching docker-within-docker so that the Project can be easily shipped from one system to another without any problem. Docker Concepts are very useful for such projects when you need to send your project with complete environment of the project.<br>
 
 For detailed Article of this Project <a href="https://emagazine26.blogspot.com/2020/05/containerization-within-container.html">Click Here</a>
 
