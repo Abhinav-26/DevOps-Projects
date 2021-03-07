@@ -1,4 +1,4 @@
-# DevOps-Integration
+# DevOps-Projects
 In this repository I will upload my projects on DevOps and also Integration of DevOps technology with other technologies like Machine Learning, Git/Github, etc.<br>
 
 <a href="https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-1">Project-1 : Automated WebDevelopment Environment</a><br>
