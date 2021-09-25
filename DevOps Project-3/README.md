@@ -11,7 +11,7 @@ This Project, and the Project which I made in previous repository performs the s
 As a pre-requisites of this Project docker must be installed in your system and nothing else required. Run the Following commands in your terminal to launch this project.<br>
 1. <code>docker pull alex43/jenkins-os:v1.0</code><br><br>
 2. <code>docker run -dit -p 1234:8080 -v /:/host -v /var/run/docker.sock:/var/run/docker.sock --name automation_project alex43/jenkins-os:v1.0</code><br><br>
-3. <code>Your_IP:1234</code>, Write this in your browser after launching it successfully.
+3. <code>Your_IP:1234</code>, Enter your Ip with port specified in browser after running container successfully.
 
-For more details about this Project you can see this <a href="https://www.linkedin.com/posts/abhinavdubey26_containerization-within-container-activity-6671002631571431424-c9Zi">LinkedIn Post</a> where I have mentioned all te details regarding this Project and written a well documented article for using this concept of Docker-within-docker.<br>
+For more details about this Project you can see this <a href="https://www.linkedin.com/posts/abhinavd26_containerization-within-container-activity-6671002631571431424-HclV">LinkedIn Post</a> where I have mentioned all the details regarding this Project and written a well documented article for using this concept of Docker-within-docker.<br>
 For any query feel free to dm in my LinkedIn Handle.
